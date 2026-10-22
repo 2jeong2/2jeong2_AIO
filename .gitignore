@@ -1,0 +1,26 @@
+# Eclipse / STS
+**/.metadata/
+**/.settings/
+**/.classpath
+**/.project
+
+# Java / Gradle
+**/.gradle/
+**/build/
+**/out/
+
+# React / Node.js
+**/node_modules/
+**/dist/
+
+# Environment / Secrets
+**/.env
+**/.env.*
+!**/.env.example
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
