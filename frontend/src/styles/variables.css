@@ -1,0 +1,18 @@
+
+:root {
+  font-family: Arial, sans-serif;
+  color: #252525;
+  background: #fafafa;
+
+  --color-bg: #fafafa;
+  --color-card: #ffffff;
+  --color-muted: #f3f3f3;
+  --color-text: #252525;
+  --color-subtext: #777777;
+  --color-border: #dedede;
+  --color-accent: #f5a9c7;
+
+  --radius-card: 10px;
+  --radius-item: 6px;
+  --content-width: 960px;
+}
